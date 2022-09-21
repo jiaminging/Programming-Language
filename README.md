@@ -6,7 +6,7 @@
 >#### 姓名:李嘉明    
 >#### 系級:科技系二年級     
 ---
-# 課程筆記區
+# 課程筆記區(Notes)
 * ### Week2
   * ### Websites for learning Python
     *   [pythonviz](https://pythonviz.com/basic/python-compare-lists-intersection-difference/)
@@ -15,6 +15,6 @@
     *   [W2_0915_practice](https://github.com/jiaminging/Programming-Language/tree/main/0915) 
 * ### Week3
 ---
-# 作業連結區
+# 作業連結區(Assignments)
 ---
-# 專題連結區
+# 專題連結區(Projects)
