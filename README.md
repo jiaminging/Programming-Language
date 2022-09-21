@@ -1,5 +1,5 @@
 # README
-111-1 師大科技系網際網路概論
+111-1 師大科技系程式語言
 ==
 # Bio
 >#### 授課老師:蔡芸琤    
@@ -7,7 +7,9 @@
 >#### 系級:科技系二年級     
 ---
 # 課程筆記區
-*   [W2_0915](https://github.com/jiaminging/Programming-Language/tree/main/Programming_Language) 
+* ## Week2
+  *   [W2_0915](https://github.com/jiaminging/Programming-Language/tree/main/Programming_Language) 
+* ## Week3
 ---
 # 作業連結區
 ---
