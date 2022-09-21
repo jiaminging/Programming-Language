@@ -8,7 +8,7 @@
 ---
 # 課程筆記區
 * ## Week2
-  *   [W2_0915](https://github.com/jiaminging/Programming-Language/tree/main/Programming_Language) 
+  *   [W2_0915](https://github.com/jiaminging/Programming-Language/tree/main/0915) 
 * ## Week3
 ---
 # 作業連結區
