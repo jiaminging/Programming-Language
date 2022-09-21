@@ -8,7 +8,11 @@
 ---
 # 課程筆記區
 * ### Week2
-  *   [W2_0915_practice](https://github.com/jiaminging/Programming-Language/tree/main/0915) 
+  * ### Websites for learning Python
+    *   [pythonviz](https://pythonviz.com/basic/python-compare-lists-intersection-difference/)
+    *   [stackoverflow](https://stackoverflow.com/questions/21448225/getting-indices-of-true-values-in-a-boolean-list)
+  * ### Practices in class
+    *   [W2_0915_practice](https://github.com/jiaminging/Programming-Language/tree/main/0915) 
 * ### Week3
 ---
 # 作業連結區
