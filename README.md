@@ -7,9 +7,9 @@
 >#### 系級:科技系二年級     
 ---
 # 課程筆記區
-* ## Week2
+* ### Week2
   *   [W2_0915](https://github.com/jiaminging/Programming-Language/tree/main/0915) 
-* ## Week3
+* ### Week3
 ---
 # 作業連結區
 ---
