@@ -18,6 +18,9 @@
   * ### Practices in class
     *   [W2_0915_practice](https://github.com/jiaminging/Programming-Language/tree/main/0915) 
 * ### ***Week3***
+  * ### Learning Materials
+    *   [MaterialsForPython](https://github.com/pecu/LawTech/tree/main/Learning-Materials)
+    *   [pandas1](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0915_02of16/py_02.ipynbhttps://github.com/pecu/PL/blob/main/Python01.ipynb)
 ---
 # 作業連結區 (***Assignments***)
 ---
