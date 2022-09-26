@@ -18,6 +18,7 @@
   * ### Practices in class
     *   [W2_0915_practice](https://github.com/jiaminging/Programming-Language/tree/main/0915) 
 * ### ***Week3***
+  * ### [Learing Materials](https://github.com/pecu/LawTech/tree/main/Learning-Materials)
 ---
 # 作業連結區 (***Assignments***)
 ---
