@@ -16,13 +16,13 @@
     *   [pythonviz](https://pythonviz.com/basic/python-compare-lists-intersection-difference/)
     *   [stackoverflow](https://stackoverflow.com/questions/21448225/getting-indices-of-true-values-in-a-boolean-list)
   * ### Practices in class
-    *   [W2_0915_practice](https://github.com/jiaminging/Programming-Language/tree/main/0915) 
+    *   [W2_0915_practice](https://github.com/jiaminging/Programming-Language/tree/main/W2_0915) 
 * ### ***Week3***
   * ### Learning Materials
     *   [MaterialsForPython](https://github.com/pecu/LawTech/tree/main/Learning-Materials)
-    *   [pandas1](https://github.com/AndersonTsaiTW/PL-Repo/blob/main/01_Notes/exercise_0915_02of16/py_02.ipynbhttps://github.com/pecu/PL/blob/main/Python01.ipynb)
+    *   [pandas1](https://github.com/pecu/PL/blob/main/Python01.ipynb)
   * ### Practices in class
-    *   [W2_0922_practice](https://github.com/jiaminging/Programming-Language/tree/main/0922/0922_practice)
+    *   [W2_0922_practice](https://github.com/jiaminging/Programming-Language/tree/main/W3_0922/0922_practice)
 ---
 # 作業連結區 (***Assignments***)
 ---
