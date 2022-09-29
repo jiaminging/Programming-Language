@@ -23,6 +23,10 @@
     *   [pandas1](https://github.com/pecu/PL/blob/main/Python01.ipynb)
   * ### Practices in class
     *   [W2_0922_practice](https://github.com/jiaminging/Programming-Language/tree/main/W3_0922/0922_practice)
+* ### ***Week4***
+  * ### Practice in class
+    *   [0204](
+    )
 ---
 # 作業連結區 (***Assignments***)
   * ### [W3_Homework1_DataComparison](https://github.com/jiaminging/Programming-Language/blob/main/W3_0922/0922_Homework1/0922_Homework1_DataComparison.ipynb)
