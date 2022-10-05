@@ -28,7 +28,7 @@
     *   [0204](https://github.com/jiaminging/Programming-Language/blob/main/W3_0922/0922_practice/0922_practice_0204_dictionary.ipynb)
 ---
 # 作業連結區 (***Assignments***)
-  * ### [HW]
+  * ### [HW01]
     *   [W3_Homework1_DataComparison](https://github.com/jiaminging/Programming-Language/blob/main/W3_0922/0922_Homework1/0922_Homework1_DataComparison.ipynb)
 ---
 # 專題連結區 (***Projects***)
