@@ -26,6 +26,10 @@
 * ### ***Week4***
   * ### Practice in class
     *   [0204](https://github.com/jiaminging/Programming-Language/blob/main/W3_0922/0922_practice/0922_practice_0204_dictionary.ipynb)
+* ### ***Week5***
+  * ### Practice in class
+* ### ***Week6***
+* ### ***Week7***
 ---
 # 作業連結區 (***Assignments***)
   * ### [HW01]
