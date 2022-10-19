@@ -32,7 +32,8 @@
 * ### ***Week7***
 ---
 # 作業連結區 (***Assignments***)
-  * ### [HW01]
-    *   [W3_Homework1_DataComparison](https://github.com/jiaminging/Programming-Language/blob/main/W3_0922/0922_Homework1/0922_Homework1_DataComparison.ipynb)
+  * ### [HW01](https://github.com/jiaminging/Programming-Language/blob/main/W3_0922/0922_Homework1/0922_Homework1_DataComparison.ipynb)
+  * ### [HW02](https://github.com/jiaminging/Programming-Language/blob/main/Homework2/Homework2_JSON.ipynb)
+    
 ---
 # 專題連結區 (***Projects***)
