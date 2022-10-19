@@ -1,0 +1,95 @@
+{
+    "Albums" :
+    [
+        {
+            "Ranking":"1",
+            "Album":"Whats Going On",
+            "Artist":"Marvin Gaye",
+            "Year":1971,
+            "Record":"Tamla/Motown",
+            "Nation":"USA",
+            "listened":"nope"
+        },
+        {
+            "Ranking":"2",
+            "Album":"Pet Sounds",
+            "Artist":"The Beach Boys",
+            "Year":1966,
+            "Record":"Capitol",
+            "Nation":"USA",
+            "listened":"nope"
+        },
+        {
+            "Ranking":"3",
+            "Album":"Songs in the Key of Life",
+            "Artist":"Stevie Wonder",
+            "Year":1976,
+            "Record":"Tamla/Motown",
+            "Nation":"USA",
+            "listened":"yes"
+        },
+        {
+            "Ranking":"4",
+            "Album":"Abbey Road",
+            "Artist":"The Beatles",
+            "Year":1969,
+            "Record":"Apple",
+            "Nation":"UK",
+            "listened":"yes"
+        },
+        {
+            "Ranking":"5",
+            "Album":"Rumors",
+            "Artist":"Fleetwood Mac",
+            "Year":1977,
+            "Record":"Warner Bros.",
+            "Nation":"UK",
+            "listened":"nope"
+        },
+        {
+            "Ranking":"6",
+            "Album":"Purple Rain",
+            "Artist":"Prince and the Revolution",
+            "Year":1984,
+            "Record":"Warner Bros.",
+            "Nation":"USA",
+            "listened":"yes"
+        },
+        {
+            "Ranking":"7",
+            "Album":"Are You Experienced",
+            "Artist":"Jimi Hendrix",
+            "Year":1967,
+            "Record":"Track",
+            "Nation":"USA",
+            "listened":"yes"
+        },
+        {
+            "Ranking":"8",
+            "Album":"Sgt. Pepper’s Lonely Hearts Club Band",
+            "Artist":"The Beatles",
+            "Year":1967,
+            "Record":"Capitol",
+            "Nation":"UK",
+            "listened":"yes"
+        },
+        {
+            "Ranking":"9",
+            "Album":"White Album",
+            "Artist":"The Beatles",
+            "Year":1968,
+            "Record":"Apple",
+            "Nation":"UK",
+            "listened":"yes"
+        },
+        {
+            "Ranking":"10",
+            "Album":"Nevermind",
+            "Artist":"Nirvana",
+            "Year":1991,
+            "Record":"Geffen",
+            "Nation":"UK",
+            "listened":"yes"
+        }
+    ]
+}
