@@ -14,7 +14,7 @@
 * ### ***Week2***
   * ### Websites for learning Python
     *   [pythonviz](https://pythonviz.com/basic/python-compare-lists-intersection-difference/)
-    *   [stackoverflow](https://stackoverflow.com/questions/21448225/getting-indices-of-true-values-in-a-boolean-list)
+    33*   [stackoverflow](https://stackoverflow.com/questions/21448225/getting-indices-of-true-values-in-a-boolean-list)
   * ### Practices in class
     *   [W2_0915_practice](https://github.com/jiaminging/Programming-Language/tree/main/W2_0915) 
 * ### ***Week3***
@@ -34,6 +34,6 @@
 # 作業連結區 (***Assignments***)
   * ### [HW01](https://github.com/jiaminging/Programming-Language/blob/main/W3_0922/0922_Homework1/0922_Homework1_DataComparison.ipynb)
   * ### [HW02](https://github.com/jiaminging/Programming-Language/blob/main/Homework2/Homework2_JSON.ipynb)
-    
+  * ### [Hw03](https://github.com/jiaminging/Programming-Language/blob/main/Untitled%20Folder/HW3.ipynb)  
 ---
 # 專題連結區 (***Projects***)
