@@ -36,7 +36,7 @@
   * ### [HW02](https://github.com/jiaminging/Programming-Language/blob/main/Homework2/Homework2_JSON.ipynb)
   * ### [Hw03](https://github.com/jiaminging/Programming-Language/blob/main/Untitled%20Folder/HW3.ipynb)
   * ### [Hw03](https://github.com/jiaminging/Programming-Language/blob/main/Homework4/hw4.ipynb)
-  * ### [hw04](https://github.com/jiaminging/Programming-Language/tree/main/Homework4)[medium](https://medium.com/@41071132h/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90-24f082c37791)
+  * ### [hw04](https://github.com/jiaminging/Programming-Language/tree/main/Homework4)、[medium](https://medium.com/@41071132h/%E5%8F%B0%E5%8C%97%E5%B8%82%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E6%95%B8%E6%93%9A%E5%88%86%E6%9E%90-24f082c37791)
 
 ---
 # 專題連結區 (***Projects***)
